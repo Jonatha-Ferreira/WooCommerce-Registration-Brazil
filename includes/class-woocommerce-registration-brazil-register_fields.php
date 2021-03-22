@@ -9,7 +9,7 @@
  */
 
 /**
- * Registrar os campos no formulario de cadastro
+ * Registra os campos no formulario de cadastro do WooCommerce
  *
  * @package    Woocommerce_Registration_Brazil
  * @subpackage Woocommerce_Registration_Brazil/includes
